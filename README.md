@@ -1,6 +1,6 @@
 # Game Development Portfolio — AI Dataset Assets
 
-**Katherine Feemster** · Game Development Specialist · [Company, years]
+**Katherine Feemster** · Game Development Specialist
 
 Cross-engine, code-first game development for an AI research program: projects
 that open in **Godot 4**, **Defold**, **Solar 2D**, **Panda 3D** and **Stride
@@ -74,13 +74,9 @@ game-portfolio/
 
 ## About the author
 
-Senior game-development specialist with [years] years shipping cross-engine
-game and interactive assets for [Company, years] — most recently focused on
-data-generation pipelines for AI research programs. Comfortable owning a
-project from engine selection through asset pipelines, CI automation and
-headless capture tooling.
+Senior game-development specialist shipping cross-engine game and interactive
+assets — most recently focused on data-generation pipelines for AI research
+programs. Comfortable owning a project from engine selection through asset
+pipelines, CI automation and headless capture tooling.
 
 - GitHub: [katherinejenniferhsfeemster](https://github.com/katherinejenniferhsfeemster)
-
-> Placeholders `[Company, years]` are intentional — swap them for the specific
-> role you're reviewing this portfolio for.
