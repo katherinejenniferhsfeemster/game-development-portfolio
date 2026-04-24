@@ -2,6 +2,8 @@
 
 **Katherine Feemster** · Game Development Specialist
 
+[🌐 **Live portfolio site**](https://katherinejenniferhsfeemster.github.io/game-development-portfolio/) · [GitHub repo](https://github.com/katherinejenniferhsfeemster/game-development-portfolio)
+
 Cross-engine, code-first game development for an AI research program: projects
 that open in **Godot 4**, **Defold**, **Solar 2D**, **Panda 3D** and **Stride
 (Xenko)** are all generated from a single Python pipeline. Every sprite,
