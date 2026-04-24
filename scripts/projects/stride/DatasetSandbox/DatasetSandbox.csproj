@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>DatasetSandbox</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Stride.Engine" Version="4.2.*" />
+    <PackageReference Include="Stride.Graphics" Version="4.2.*" />
+    <PackageReference Include="Stride.Physics" Version="4.2.*" />
+    <PackageReference Include="Stride.UI" Version="4.2.*" />
+  </ItemGroup>
+</Project>

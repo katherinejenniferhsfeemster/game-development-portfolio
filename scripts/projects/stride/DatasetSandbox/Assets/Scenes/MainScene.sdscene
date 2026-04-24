@@ -1,0 +1,4683 @@
+'!Scene': null
+Id: b0d4a1f2-0000-4000-8000-000000000003
+SerializedVersion:
+  Stride: 2.1.0.1
+Tags: []
+Hierarchy:
+  RootParts:
+  - Id: 842bca16-82f8-5932-b262-ba57468f4fb5
+  - Id: 20862209-6df0-5475-8712-7c0b2db0ee67
+  - Id: 3fad690b-e35f-5062-bfdd-092da5317868
+  - Id: 1df8152f-6c02-5971-8fe3-07acf775f07c
+  - Id: dad35dd1-1347-5c83-a18e-16c86edac559
+  - Id: 9700fc78-2d38-5245-9c8a-221fb6d4586a
+  - Id: 2df373e7-28f0-529d-ac01-2f4b52638894
+  - Id: 4070b036-fbc6-57b3-b693-1c92c6935128
+  - Id: 1508dab2-5760-5c9b-98f8-6d36c5048f1c
+  - Id: ceb9c0f5-5221-5f9d-9b57-e08e3b6cfda7
+  - Id: 02497240-1213-58ad-ae59-21268a807459
+  - Id: 060fe8ca-e390-59e4-987e-09ddb70d7fc8
+  - Id: 9b21ddd6-a7de-50f4-8f22-075f3018ccb2
+  - Id: 5626c2f4-7041-55a6-bc57-8edd8f01d217
+  - Id: 4a9f0a38-6dba-516d-9c4d-90204744f3fc
+  - Id: 981db159-8586-5963-9e62-3105919feb6f
+  - Id: 91ee5dbc-5962-5000-baac-bd75d0d3b099
+  - Id: 204c52b6-8dc7-54fa-b9a9-89f57dd10fdc
+  - Id: 508df500-30f0-5ad5-8678-6fcbd001484d
+  - Id: 6bebd565-6c8e-563c-b0bb-53f38e5f28ff
+  - Id: 56b0369d-7e33-5c7c-a244-f6d52741c440
+  - Id: 11155db0-10d6-5b26-97b4-ac50bf943b89
+  - Id: 00bf931b-597a-5b10-a58d-60de859adeb7
+  - Id: 4dc73dad-0d3a-57a9-9905-13d59d0bab84
+  - Id: 41dd5ddd-9f65-5ef2-9022-0772678534af
+  - Id: 26cd59b3-145f-550e-a999-7ac7c5af1e9d
+  - Id: 7b8c014b-93a2-5987-8c43-cc270bf6bf42
+  - Id: 33aa62ec-482f-5950-b9eb-8f5d9b08e9fe
+  - Id: 562a8e12-1c95-5da8-b292-09f7f626f27b
+  - Id: 2c350342-a17a-5e8e-ba99-9aafc796a232
+  - Id: 239a7f29-9909-59de-911d-12d02db26c89
+  - Id: 1e8be6a8-5d92-5374-8748-1fee2197f5f0
+  - Id: 945e01f5-1cb2-5567-8b2e-224de5ae5e39
+  - Id: dfd9b434-4347-5438-9daa-fc8cc8c3dfd4
+  - Id: 600f76fa-7716-5f1e-9d29-5b4d6f1ef7ae
+  - Id: 51891317-2dd1-5afb-aa12-636cac2e2d9b
+  - Id: 0ac5a2d3-0dfd-523c-b12f-6e20ecd9aa94
+  - Id: 3478d88f-6159-55e6-abb2-daf107991f83
+  - Id: 64a78c6c-e602-5c11-8525-6469ea169867
+  - Id: aac88e17-7b86-5625-b209-0ab6f7decf07
+  - Id: 1a475253-a04a-5963-a766-1bd04217fd07
+  - Id: fd8df7ea-6d75-5e32-aa7c-accbe21d98f8
+  - Id: c27dd538-ec2c-5bab-9244-ce55ae5d18e6
+  - Id: b8cbe79d-c782-54e5-af96-ae7bb47dbdc2
+  - Id: 720af0ec-22c5-5567-bc88-e26053e96727
+  - Id: 65e9fd19-49d1-5303-96b4-c399bf796a86
+  - Id: 18351945-9f7e-5b63-941c-76606e95e0bc
+  - Id: f1311c94-e460-5498-a03c-03dfc03e4409
+  - Id: 4ab70c15-8e0a-5a08-8b5c-034a07508785
+  - Id: 119ec5c2-494d-5ff9-9a14-c4c8777e771e
+  - Id: 4bfcac10-fd2f-57f5-992a-f8653e8f7db1
+  - Id: b6296fc4-b6df-514a-a62f-3ba03c1ea2e1
+  - Id: 5863dd48-4924-5c36-a592-ccd52f0a112d
+  - Id: c2701165-913b-5af9-91a0-43550e331b5c
+  - Id: fafcb0a0-5063-5d4b-b892-254cfac1b84f
+  - Id: 3181b03b-f793-5f1a-9e32-f8265be50909
+  - Id: ded0f3ab-d2a1-53d7-b8a0-af45fecc2926
+  - Id: 4f1ea61a-9012-500a-b046-82fa4f72de82
+  - Id: 7222c464-1aee-52db-bcd5-2b98997ef4e2
+  - Id: e1ad12b6-7fa9-50f9-b297-ed7443ced426
+  - Id: c2cd907e-523e-5b23-96b7-34fa8c74daa7
+  - Id: fd9513e9-214b-5f69-8fa6-679de4a178c2
+  - Id: 78d82ccd-36dc-5cc1-b983-96d07fef63c2
+  - Id: 9773badb-f2a5-5bf6-a700-061032ffa6ab
+  - Id: 815a3c62-1cff-5115-a593-7344b792661a
+  - Id: ab408d76-77c1-548e-8522-50d4ccadaf32
+  - Id: 9da98e4d-f4e0-56bc-9e48-f719a3dba172
+  - Id: c25d6db5-8a0e-5a02-907d-7414048fe20d
+  - Id: fcb074a8-6181-5e8f-aca8-d6c395f23cb2
+  - Id: 87590040-f9d9-5ef7-a90c-0956bf7939e3
+  - Id: 41757fb2-69d0-5f63-a1f9-a925a8916da3
+  - Id: e06a134d-2632-500c-89a2-ac7f99cc036d
+  - Id: c0e43932-2fb5-528f-8a75-b41fac6832f2
+  - Id: 4bad6d14-ac19-521b-8ba9-93a71515eb76
+  - Id: 82da3b29-0e17-50d4-bb39-6974cbcc45b0
+  - Id: f551fc40-079b-5b0c-afaa-f739342763d5
+  - Id: f8434864-2f98-56e3-91d0-977785e48a4b
+  - Id: 496fab52-cbe0-53aa-b714-cc6427a64d42
+  - Id: b2e272b8-23ab-5f18-b910-5d8bbd3d1d20
+  - Id: 0bce57ce-feeb-55c0-9330-26bd844b4869
+  - Id: 665b2373-ff19-507b-a04f-f77ceee43ecb
+  - Id: c683da9c-6e82-531b-a35b-7682a81e7625
+  - Id: 6b01c28c-88a8-5ddf-9908-0bf4393d5552
+  - Id: 8dd44152-ba07-5d38-ab88-a441a4ce2c51
+  - Id: 5b9190c7-239d-5703-9840-739a31302d84
+  - Id: 3451f421-e5b1-5ddb-a948-c28378b7d839
+  - Id: 9f6ab1bd-3bf3-5161-9a43-90cc6bff6862
+  - Id: 99a952c8-1eb2-5e06-a04e-1b25d1ad1583
+  - Id: 9866beab-6eb7-510f-9e4e-4c5fa4f4dafc
+  - Id: ac1b78a5-8270-521c-ad89-4d702155371b
+  - Id: f5c48487-3edc-5e1c-9866-ad8b7c34b323
+  - Id: d0709cf6-6455-5655-89e5-092ef2e47ca2
+  - Id: 94d6d425-5ec3-59db-a4a1-5b110617d465
+  - Id: cbdbbce8-dad5-5b01-866a-948a56ab57f5
+  - Id: b3ccfd83-46de-57d9-97b4-5c1f685efc5e
+  - Id: c43aa410-5a35-5fea-bfc0-6e8b991c8dfd
+  - Id: 2ec83f8c-b639-59c4-9ae6-10b6c01a4bd8
+  - Id: 5b3f5c5a-6190-5dd2-8588-f1ffb75e8ee4
+  - Id: 5e21849b-8f59-5eed-9c23-94dd008c6ae5
+  - Id: 286799de-31b6-5c09-8461-f9be8c8ca5ed
+  - Id: 9d8c73fc-65d2-5774-85b2-973ab1989fea
+  - Id: 6577ee97-4e72-5bc2-84c4-30009f192869
+  - Id: 2e050156-e5ea-5215-980c-c88191b91af0
+  - Id: 8b6d9019-e7bd-51e7-90de-fc6fabf3c343
+  - Id: 4770b712-ab07-54a2-b7fd-de651f4e89e6
+  - Id: aa984ec2-1b7d-5ca8-8cea-eab381575aef
+  - Id: cf21e5fc-2b28-508a-9153-1495dcbc7b3a
+  - Id: d56d01a0-d8ab-50d5-9ccc-b69015974add
+  - Id: b95c9100-b1a9-5cac-9c57-8ca67f4d8fb0
+  - Id: 2e2ae9cd-8147-5acb-8ca8-037bf6cc4587
+  - Id: 1a0ecf65-f8aa-5c48-ad52-525153ad2deb
+  - Id: 3d5db98c-1ada-5798-9d46-9575e1c39a16
+  - Id: b3314faf-1c6a-5687-9c59-c183b72cdfa1
+  - Id: 98c768fb-c9a4-505e-b3b0-18549fdad08e
+  - Id: c6d831b4-6057-52f4-a897-7aecaff0d4cb
+  - Id: a57af063-9aa2-5812-ab3e-8d8771a3a65e
+  - Id: 60aa183a-205e-57eb-994a-4abfcc3fb295
+  - Id: adc36e07-4068-556c-9f30-6ffe796fa147
+  - Id: 294f116b-78f3-54e7-8902-2f2622079405
+  - Id: dc2491cf-267f-5fcf-9709-9b66a6051f4a
+  - Id: a840c9ee-52b9-57e1-a6cd-e250184ef435
+  - Id: 714064d8-2fa8-5aa5-9cc6-eacff0072b4c
+  - Id: 0ee318fc-b630-5604-bf32-63c8b69edfcf
+  - Id: 3c24a344-03f5-5afc-ab41-a7a99fafc89d
+  - Id: 72503d33-7721-512c-bacc-d2fb3692dcc1
+  - Id: b4c32b5d-70bd-526f-b435-c2776f5d63ce
+  - Id: 6cf5c8e8-e2f8-5ceb-88d3-4c89438db54d
+  - Id: 532a9553-7d93-53a9-95b3-771a35421122
+  - Id: 02243bf7-ea58-5957-9972-a65f9e8e129f
+  - Id: b6979b5f-2b02-55ff-a7c7-131fe3256431
+  - Id: 86b264a9-5e82-5a17-b3a7-31b9fb846b03
+  - Id: 75568543-5f7b-56c8-86b8-1df42061fdba
+  - Id: 4a86dbc0-4e8e-557a-ba57-8f83d74aa65f
+  - Id: 2889f36e-539c-5caf-b66e-71d817e9658f
+  - Id: 0b7c12d3-7978-5dc7-8c51-b1b57ff99f43
+  - Id: c5634a56-a492-51f7-b249-94441c708cd0
+  - Id: 4f8511b5-87e8-5627-a135-116195ae7e5c
+  - Id: 51b1d215-5d17-5270-9c8d-7a0af2b984d1
+  - Id: 0a7567f0-9ed3-5fe7-b8e7-aec4192bb0e8
+  - Id: 9d12d647-711d-5ced-912c-1a720fb0b127
+  - Id: 66812eb3-d4aa-5572-bd14-02166f6d5a0d
+  - Id: 2e1dcd73-2c23-5c2a-a5f7-6c817d752c8d
+  - Id: 9403c8e5-2817-567a-8a44-d61e8c18c8b4
+  - Id: 0a4543ae-8584-5e90-859d-da625a2542d4
+  - Id: 0c22907f-d836-5664-b826-eb9861bbcbb3
+  - Id: 99bf566a-9b9b-5434-99d2-648b82189237
+  - Id: eddef5ba-15f2-5d57-8523-25ad8026d1aa
+  - Id: 60c1e23b-9fd8-5938-8165-cd9f493bf327
+  - Id: faed51ea-cdbe-51d1-985d-46ff8d8dbce7
+  - Id: 05cec011-f67b-5b19-9edf-90f18cb809b6
+  - Id: 9b633ff2-6521-5924-ae55-339443b804f9
+  - Id: fd547f82-d157-5426-b52b-9fd6c47b7dfa
+  - Id: 4a030383-6201-5813-838c-adec81790ca7
+  - Id: 381409ca-fc81-5a34-8e1e-903930ed2d36
+  - Id: 0af58736-9dfa-5517-96c8-c949a858227b
+  - Id: 0df27f79-4acf-5ad4-845d-951d4c9252c0
+  - Id: 34ed1956-9ec4-57a9-a3ae-d0bbb5d87e7e
+  - Id: d73eef71-b02b-54c0-9ead-257cf7e6ff6e
+  - Id: a544bb48-4886-50f4-8c37-509701cc69c1
+  - Id: 8585f749-256b-531f-9498-00a100d5b174
+  - Id: 8bc7e93b-d53f-5d4e-a3c6-ae0b97741843
+  - Id: 5cabca4d-82ce-53d8-a0dd-9fcd7ce35e21
+  - Id: 2f667c74-7c98-58ff-8e05-05dd221b03a1
+  - Id: 8c783d19-6401-524a-99a4-8d2609e50ad9
+  - Id: 51fbdf25-f233-5d62-92ce-8bac8f77c762
+  - Id: 80064470-c23a-5c19-b614-7d16edc6f0e2
+  - Id: 6f2fe44b-0f62-5548-a5f7-ecdeb9953243
+  - Id: 284bb013-6cc6-5186-9948-3de08d6ffa48
+  - Id: 35b86d20-be85-5806-84b0-c68ab1e63d0a
+  - Id: aca595c4-090e-5343-98de-6f2d7cbf5499
+  - Id: 4dde03cc-2791-5919-89a3-27d5b144ad06
+  - Id: ce78baed-5c6c-5e44-a75c-742beb2fa68a
+  - Id: 2755e022-f131-5a74-b859-90de903f8239
+  Parts:
+  - Entity:
+      Id: 842bca16-82f8-5932-b262-ba57468f4fb5
+      Name: MainCamera
+      Components:
+        Transform:
+          Position:
+            X: 20
+            Y: 18
+            Z: -24
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 1
+              G: 1
+              B: 1
+              A: 1.0
+  - Entity:
+      Id: 20862209-6df0-5475-8712-7c0b2db0ee67
+      Name: Sun
+      Components:
+        Transform:
+          Position:
+            X: 0
+            Y: 40
+            Z: 0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 1
+              G: 0.95
+              B: 0.85
+              A: 1.0
+  - Entity:
+      Id: 3fad690b-e35f-5062-bfdd-092da5317868
+      Name: vox_0_0_0
+      Components:
+        Transform:
+          Position:
+            X: 0.0
+            Y: 0.0
+            Z: 0.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 1df8152f-6c02-5971-8fe3-07acf775f07c
+      Name: vox_0_1_0
+      Components:
+        Transform:
+          Position:
+            X: 0.0
+            Y: 0.0
+            Z: 1.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: dad35dd1-1347-5c83-a18e-16c86edac559
+      Name: vox_0_2_0
+      Components:
+        Transform:
+          Position:
+            X: 0.0
+            Y: 0.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 9700fc78-2d38-5245-9c8a-221fb6d4586a
+      Name: vox_0_3_0
+      Components:
+        Transform:
+          Position:
+            X: 0.0
+            Y: 0.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 2df373e7-28f0-529d-ac01-2f4b52638894
+      Name: vox_0_4_0
+      Components:
+        Transform:
+          Position:
+            X: 0.0
+            Y: 0.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 4070b036-fbc6-57b3-b693-1c92c6935128
+      Name: vox_0_5_0
+      Components:
+        Transform:
+          Position:
+            X: 0.0
+            Y: 0.0
+            Z: 5.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 1508dab2-5760-5c9b-98f8-6d36c5048f1c
+      Name: vox_0_6_0
+      Components:
+        Transform:
+          Position:
+            X: 0.0
+            Y: 0.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: ceb9c0f5-5221-5f9d-9b57-e08e3b6cfda7
+      Name: vox_0_7_0
+      Components:
+        Transform:
+          Position:
+            X: 0.0
+            Y: 0.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 02497240-1213-58ad-ae59-21268a807459
+      Name: vox_0_8_0
+      Components:
+        Transform:
+          Position:
+            X: 0.0
+            Y: 0.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 060fe8ca-e390-59e4-987e-09ddb70d7fc8
+      Name: vox_0_9_0
+      Components:
+        Transform:
+          Position:
+            X: 0.0
+            Y: 0.0
+            Z: 9.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 9b21ddd6-a7de-50f4-8f22-075f3018ccb2
+      Name: vox_0_10_0
+      Components:
+        Transform:
+          Position:
+            X: 0.0
+            Y: 0.0
+            Z: 10.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 5626c2f4-7041-55a6-bc57-8edd8f01d217
+      Name: vox_0_11_0
+      Components:
+        Transform:
+          Position:
+            X: 0.0
+            Y: 0.0
+            Z: 11.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 4a9f0a38-6dba-516d-9c4d-90204744f3fc
+      Name: vox_1_0_0
+      Components:
+        Transform:
+          Position:
+            X: 1.0
+            Y: 0.0
+            Z: 0.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 981db159-8586-5963-9e62-3105919feb6f
+      Name: vox_1_1_0
+      Components:
+        Transform:
+          Position:
+            X: 1.0
+            Y: 0.0
+            Z: 1.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 91ee5dbc-5962-5000-baac-bd75d0d3b099
+      Name: vox_1_2_0
+      Components:
+        Transform:
+          Position:
+            X: 1.0
+            Y: 0.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 204c52b6-8dc7-54fa-b9a9-89f57dd10fdc
+      Name: vox_1_3_0
+      Components:
+        Transform:
+          Position:
+            X: 1.0
+            Y: 0.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 508df500-30f0-5ad5-8678-6fcbd001484d
+      Name: vox_1_4_0
+      Components:
+        Transform:
+          Position:
+            X: 1.0
+            Y: 0.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 6bebd565-6c8e-563c-b0bb-53f38e5f28ff
+      Name: vox_1_5_0
+      Components:
+        Transform:
+          Position:
+            X: 1.0
+            Y: 0.0
+            Z: 5.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 56b0369d-7e33-5c7c-a244-f6d52741c440
+      Name: vox_1_6_0
+      Components:
+        Transform:
+          Position:
+            X: 1.0
+            Y: 0.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 11155db0-10d6-5b26-97b4-ac50bf943b89
+      Name: vox_1_7_0
+      Components:
+        Transform:
+          Position:
+            X: 1.0
+            Y: 0.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 00bf931b-597a-5b10-a58d-60de859adeb7
+      Name: vox_1_8_0
+      Components:
+        Transform:
+          Position:
+            X: 1.0
+            Y: 0.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 4dc73dad-0d3a-57a9-9905-13d59d0bab84
+      Name: vox_1_9_0
+      Components:
+        Transform:
+          Position:
+            X: 1.0
+            Y: 0.0
+            Z: 9.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 41dd5ddd-9f65-5ef2-9022-0772678534af
+      Name: vox_1_10_0
+      Components:
+        Transform:
+          Position:
+            X: 1.0
+            Y: 0.0
+            Z: 10.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 26cd59b3-145f-550e-a999-7ac7c5af1e9d
+      Name: vox_1_11_0
+      Components:
+        Transform:
+          Position:
+            X: 1.0
+            Y: 0.0
+            Z: 11.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 7b8c014b-93a2-5987-8c43-cc270bf6bf42
+      Name: vox_2_0_0
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 0.0
+            Z: 0.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 33aa62ec-482f-5950-b9eb-8f5d9b08e9fe
+      Name: vox_2_1_0
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 0.0
+            Z: 1.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 562a8e12-1c95-5da8-b292-09f7f626f27b
+      Name: vox_2_2_0
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 0.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 2c350342-a17a-5e8e-ba99-9aafc796a232
+      Name: vox_2_2_1
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 1.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 239a7f29-9909-59de-911d-12d02db26c89
+      Name: vox_2_2_2
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 2.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 1e8be6a8-5d92-5374-8748-1fee2197f5f0
+      Name: vox_2_3_0
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 0.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 945e01f5-1cb2-5567-8b2e-224de5ae5e39
+      Name: vox_2_3_1
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 1.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: dfd9b434-4347-5438-9daa-fc8cc8c3dfd4
+      Name: vox_2_3_2
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 2.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 600f76fa-7716-5f1e-9d29-5b4d6f1ef7ae
+      Name: vox_2_4_0
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 0.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 51891317-2dd1-5afb-aa12-636cac2e2d9b
+      Name: vox_2_4_1
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 1.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 0ac5a2d3-0dfd-523c-b12f-6e20ecd9aa94
+      Name: vox_2_4_2
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 2.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 3478d88f-6159-55e6-abb2-daf107991f83
+      Name: vox_2_5_0
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 0.0
+            Z: 5.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 64a78c6c-e602-5c11-8525-6469ea169867
+      Name: vox_2_6_0
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 0.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: aac88e17-7b86-5625-b209-0ab6f7decf07
+      Name: vox_2_7_0
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 0.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 1a475253-a04a-5963-a766-1bd04217fd07
+      Name: vox_2_8_0
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 0.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: fd8df7ea-6d75-5e32-aa7c-accbe21d98f8
+      Name: vox_2_9_0
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 0.0
+            Z: 9.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: c27dd538-ec2c-5bab-9244-ce55ae5d18e6
+      Name: vox_2_10_0
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 0.0
+            Z: 10.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: b8cbe79d-c782-54e5-af96-ae7bb47dbdc2
+      Name: vox_2_11_0
+      Components:
+        Transform:
+          Position:
+            X: 2.0
+            Y: 0.0
+            Z: 11.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 720af0ec-22c5-5567-bc88-e26053e96727
+      Name: vox_3_0_0
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 0.0
+            Z: 0.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 65e9fd19-49d1-5303-96b4-c399bf796a86
+      Name: vox_3_1_0
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 0.0
+            Z: 1.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 18351945-9f7e-5b63-941c-76606e95e0bc
+      Name: vox_3_2_0
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 0.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: f1311c94-e460-5498-a03c-03dfc03e4409
+      Name: vox_3_2_1
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 1.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 4ab70c15-8e0a-5a08-8b5c-034a07508785
+      Name: vox_3_2_2
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 2.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 119ec5c2-494d-5ff9-9a14-c4c8777e771e
+      Name: vox_3_3_0
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 0.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 4bfcac10-fd2f-57f5-992a-f8653e8f7db1
+      Name: vox_3_3_1
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 1.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: b6296fc4-b6df-514a-a62f-3ba03c1ea2e1
+      Name: vox_3_3_2
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 2.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 5863dd48-4924-5c36-a592-ccd52f0a112d
+      Name: vox_3_4_0
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 0.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: c2701165-913b-5af9-91a0-43550e331b5c
+      Name: vox_3_4_1
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 1.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: fafcb0a0-5063-5d4b-b892-254cfac1b84f
+      Name: vox_3_4_2
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 2.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 3181b03b-f793-5f1a-9e32-f8265be50909
+      Name: vox_3_5_0
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 0.0
+            Z: 5.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: ded0f3ab-d2a1-53d7-b8a0-af45fecc2926
+      Name: vox_3_6_0
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 0.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 4f1ea61a-9012-500a-b046-82fa4f72de82
+      Name: vox_3_7_0
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 0.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 7222c464-1aee-52db-bcd5-2b98997ef4e2
+      Name: vox_3_8_0
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 0.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: e1ad12b6-7fa9-50f9-b297-ed7443ced426
+      Name: vox_3_9_0
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 0.0
+            Z: 9.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: c2cd907e-523e-5b23-96b7-34fa8c74daa7
+      Name: vox_3_10_0
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 0.0
+            Z: 10.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: fd9513e9-214b-5f69-8fa6-679de4a178c2
+      Name: vox_3_11_0
+      Components:
+        Transform:
+          Position:
+            X: 3.0
+            Y: 0.0
+            Z: 11.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 78d82ccd-36dc-5cc1-b983-96d07fef63c2
+      Name: vox_4_0_0
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 0.0
+            Z: 0.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 9773badb-f2a5-5bf6-a700-061032ffa6ab
+      Name: vox_4_1_0
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 0.0
+            Z: 1.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 815a3c62-1cff-5115-a593-7344b792661a
+      Name: vox_4_2_0
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 0.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: ab408d76-77c1-548e-8522-50d4ccadaf32
+      Name: vox_4_2_1
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 1.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 9da98e4d-f4e0-56bc-9e48-f719a3dba172
+      Name: vox_4_2_2
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 2.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: c25d6db5-8a0e-5a02-907d-7414048fe20d
+      Name: vox_4_3_0
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 0.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: fcb074a8-6181-5e8f-aca8-d6c395f23cb2
+      Name: vox_4_3_1
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 1.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 87590040-f9d9-5ef7-a90c-0956bf7939e3
+      Name: vox_4_3_2
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 2.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 41757fb2-69d0-5f63-a1f9-a925a8916da3
+      Name: vox_4_4_0
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 0.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: e06a134d-2632-500c-89a2-ac7f99cc036d
+      Name: vox_4_4_1
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 1.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: c0e43932-2fb5-528f-8a75-b41fac6832f2
+      Name: vox_4_4_2
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 2.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 4bad6d14-ac19-521b-8ba9-93a71515eb76
+      Name: vox_4_5_0
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 0.0
+            Z: 5.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 82da3b29-0e17-50d4-bb39-6974cbcc45b0
+      Name: vox_4_6_0
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 0.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: f551fc40-079b-5b0c-afaa-f739342763d5
+      Name: vox_4_7_0
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 0.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: f8434864-2f98-56e3-91d0-977785e48a4b
+      Name: vox_4_8_0
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 0.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 496fab52-cbe0-53aa-b714-cc6427a64d42
+      Name: vox_4_9_0
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 0.0
+            Z: 9.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: b2e272b8-23ab-5f18-b910-5d8bbd3d1d20
+      Name: vox_4_10_0
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 0.0
+            Z: 10.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 0bce57ce-feeb-55c0-9330-26bd844b4869
+      Name: vox_4_11_0
+      Components:
+        Transform:
+          Position:
+            X: 4.0
+            Y: 0.0
+            Z: 11.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 665b2373-ff19-507b-a04f-f77ceee43ecb
+      Name: vox_5_0_0
+      Components:
+        Transform:
+          Position:
+            X: 5.0
+            Y: 0.0
+            Z: 0.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: c683da9c-6e82-531b-a35b-7682a81e7625
+      Name: vox_5_1_0
+      Components:
+        Transform:
+          Position:
+            X: 5.0
+            Y: 0.0
+            Z: 1.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 6b01c28c-88a8-5ddf-9908-0bf4393d5552
+      Name: vox_5_2_0
+      Components:
+        Transform:
+          Position:
+            X: 5.0
+            Y: 0.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 8dd44152-ba07-5d38-ab88-a441a4ce2c51
+      Name: vox_5_3_0
+      Components:
+        Transform:
+          Position:
+            X: 5.0
+            Y: 0.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 5b9190c7-239d-5703-9840-739a31302d84
+      Name: vox_5_4_0
+      Components:
+        Transform:
+          Position:
+            X: 5.0
+            Y: 0.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 3451f421-e5b1-5ddb-a948-c28378b7d839
+      Name: vox_5_5_0
+      Components:
+        Transform:
+          Position:
+            X: 5.0
+            Y: 0.0
+            Z: 5.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 9f6ab1bd-3bf3-5161-9a43-90cc6bff6862
+      Name: vox_5_6_0
+      Components:
+        Transform:
+          Position:
+            X: 5.0
+            Y: 0.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 99a952c8-1eb2-5e06-a04e-1b25d1ad1583
+      Name: vox_5_7_0
+      Components:
+        Transform:
+          Position:
+            X: 5.0
+            Y: 0.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 9866beab-6eb7-510f-9e4e-4c5fa4f4dafc
+      Name: vox_5_8_0
+      Components:
+        Transform:
+          Position:
+            X: 5.0
+            Y: 0.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: ac1b78a5-8270-521c-ad89-4d702155371b
+      Name: vox_5_9_0
+      Components:
+        Transform:
+          Position:
+            X: 5.0
+            Y: 0.0
+            Z: 9.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: f5c48487-3edc-5e1c-9866-ad8b7c34b323
+      Name: vox_5_10_0
+      Components:
+        Transform:
+          Position:
+            X: 5.0
+            Y: 0.0
+            Z: 10.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: d0709cf6-6455-5655-89e5-092ef2e47ca2
+      Name: vox_5_11_0
+      Components:
+        Transform:
+          Position:
+            X: 5.0
+            Y: 0.0
+            Z: 11.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 94d6d425-5ec3-59db-a4a1-5b110617d465
+      Name: vox_6_0_0
+      Components:
+        Transform:
+          Position:
+            X: 6.0
+            Y: 0.0
+            Z: 0.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: cbdbbce8-dad5-5b01-866a-948a56ab57f5
+      Name: vox_6_1_0
+      Components:
+        Transform:
+          Position:
+            X: 6.0
+            Y: 0.0
+            Z: 1.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: b3ccfd83-46de-57d9-97b4-5c1f685efc5e
+      Name: vox_6_2_0
+      Components:
+        Transform:
+          Position:
+            X: 6.0
+            Y: 0.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: c43aa410-5a35-5fea-bfc0-6e8b991c8dfd
+      Name: vox_6_3_0
+      Components:
+        Transform:
+          Position:
+            X: 6.0
+            Y: 0.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 2ec83f8c-b639-59c4-9ae6-10b6c01a4bd8
+      Name: vox_6_4_0
+      Components:
+        Transform:
+          Position:
+            X: 6.0
+            Y: 0.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 5b3f5c5a-6190-5dd2-8588-f1ffb75e8ee4
+      Name: vox_6_5_0
+      Components:
+        Transform:
+          Position:
+            X: 6.0
+            Y: 0.0
+            Z: 5.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 5e21849b-8f59-5eed-9c23-94dd008c6ae5
+      Name: vox_6_6_0
+      Components:
+        Transform:
+          Position:
+            X: 6.0
+            Y: 0.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 286799de-31b6-5c09-8461-f9be8c8ca5ed
+      Name: vox_6_7_0
+      Components:
+        Transform:
+          Position:
+            X: 6.0
+            Y: 0.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 9d8c73fc-65d2-5774-85b2-973ab1989fea
+      Name: vox_6_8_0
+      Components:
+        Transform:
+          Position:
+            X: 6.0
+            Y: 0.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 6577ee97-4e72-5bc2-84c4-30009f192869
+      Name: vox_6_9_0
+      Components:
+        Transform:
+          Position:
+            X: 6.0
+            Y: 0.0
+            Z: 9.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 2e050156-e5ea-5215-980c-c88191b91af0
+      Name: vox_6_10_0
+      Components:
+        Transform:
+          Position:
+            X: 6.0
+            Y: 0.0
+            Z: 10.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 8b6d9019-e7bd-51e7-90de-fc6fabf3c343
+      Name: vox_6_11_0
+      Components:
+        Transform:
+          Position:
+            X: 6.0
+            Y: 0.0
+            Z: 11.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 4770b712-ab07-54a2-b7fd-de651f4e89e6
+      Name: vox_7_0_0
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 0.0
+            Z: 0.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: aa984ec2-1b7d-5ca8-8cea-eab381575aef
+      Name: vox_7_1_0
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 0.0
+            Z: 1.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: cf21e5fc-2b28-508a-9153-1495dcbc7b3a
+      Name: vox_7_2_0
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 0.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: d56d01a0-d8ab-50d5-9ccc-b69015974add
+      Name: vox_7_3_0
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 0.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: b95c9100-b1a9-5cac-9c57-8ca67f4d8fb0
+      Name: vox_7_4_0
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 0.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 2e2ae9cd-8147-5acb-8ca8-037bf6cc4587
+      Name: vox_7_5_0
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 0.0
+            Z: 5.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 1a0ecf65-f8aa-5c48-ad52-525153ad2deb
+      Name: vox_7_6_0
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 0.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 3d5db98c-1ada-5798-9d46-9575e1c39a16
+      Name: vox_7_6_1
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 1.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: b3314faf-1c6a-5687-9c59-c183b72cdfa1
+      Name: vox_7_7_0
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 0.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 98c768fb-c9a4-505e-b3b0-18549fdad08e
+      Name: vox_7_7_1
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 1.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: c6d831b4-6057-52f4-a897-7aecaff0d4cb
+      Name: vox_7_8_0
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 0.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: a57af063-9aa2-5812-ab3e-8d8771a3a65e
+      Name: vox_7_8_1
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 1.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 60aa183a-205e-57eb-994a-4abfcc3fb295
+      Name: vox_7_9_0
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 0.0
+            Z: 9.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: adc36e07-4068-556c-9f30-6ffe796fa147
+      Name: vox_7_10_0
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 0.0
+            Z: 10.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 294f116b-78f3-54e7-8902-2f2622079405
+      Name: vox_7_11_0
+      Components:
+        Transform:
+          Position:
+            X: 7.0
+            Y: 0.0
+            Z: 11.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: dc2491cf-267f-5fcf-9709-9b66a6051f4a
+      Name: vox_8_0_0
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 0.0
+            Z: 0.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: a840c9ee-52b9-57e1-a6cd-e250184ef435
+      Name: vox_8_1_0
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 0.0
+            Z: 1.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 714064d8-2fa8-5aa5-9cc6-eacff0072b4c
+      Name: vox_8_2_0
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 0.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 0ee318fc-b630-5604-bf32-63c8b69edfcf
+      Name: vox_8_3_0
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 0.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 3c24a344-03f5-5afc-ab41-a7a99fafc89d
+      Name: vox_8_4_0
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 0.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 72503d33-7721-512c-bacc-d2fb3692dcc1
+      Name: vox_8_5_0
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 0.0
+            Z: 5.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: b4c32b5d-70bd-526f-b435-c2776f5d63ce
+      Name: vox_8_6_0
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 0.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 6cf5c8e8-e2f8-5ceb-88d3-4c89438db54d
+      Name: vox_8_6_1
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 1.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 532a9553-7d93-53a9-95b3-771a35421122
+      Name: vox_8_7_0
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 0.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 02243bf7-ea58-5957-9972-a65f9e8e129f
+      Name: vox_8_7_1
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 1.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: b6979b5f-2b02-55ff-a7c7-131fe3256431
+      Name: vox_8_8_0
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 0.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 86b264a9-5e82-5a17-b3a7-31b9fb846b03
+      Name: vox_8_8_1
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 1.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 75568543-5f7b-56c8-86b8-1df42061fdba
+      Name: vox_8_9_0
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 0.0
+            Z: 9.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 4a86dbc0-4e8e-557a-ba57-8f83d74aa65f
+      Name: vox_8_10_0
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 0.0
+            Z: 10.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 2889f36e-539c-5caf-b66e-71d817e9658f
+      Name: vox_8_11_0
+      Components:
+        Transform:
+          Position:
+            X: 8.0
+            Y: 0.0
+            Z: 11.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 0b7c12d3-7978-5dc7-8c51-b1b57ff99f43
+      Name: vox_9_0_0
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 0.0
+            Z: 0.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: c5634a56-a492-51f7-b249-94441c708cd0
+      Name: vox_9_1_0
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 0.0
+            Z: 1.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 4f8511b5-87e8-5627-a135-116195ae7e5c
+      Name: vox_9_2_0
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 0.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 51b1d215-5d17-5270-9c8d-7a0af2b984d1
+      Name: vox_9_3_0
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 0.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 0a7567f0-9ed3-5fe7-b8e7-aec4192bb0e8
+      Name: vox_9_4_0
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 0.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 9d12d647-711d-5ced-912c-1a720fb0b127
+      Name: vox_9_5_0
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 0.0
+            Z: 5.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 66812eb3-d4aa-5572-bd14-02166f6d5a0d
+      Name: vox_9_6_0
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 0.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 2e1dcd73-2c23-5c2a-a5f7-6c817d752c8d
+      Name: vox_9_6_1
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 1.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 9403c8e5-2817-567a-8a44-d61e8c18c8b4
+      Name: vox_9_7_0
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 0.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 0a4543ae-8584-5e90-859d-da625a2542d4
+      Name: vox_9_7_1
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 1.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 0c22907f-d836-5664-b826-eb9861bbcbb3
+      Name: vox_9_8_0
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 0.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: 99bf566a-9b9b-5434-99d2-648b82189237
+      Name: vox_9_8_1
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 1.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.18
+              G: 0.48
+              B: 0.48
+              A: 1.0
+  - Entity:
+      Id: eddef5ba-15f2-5d57-8523-25ad8026d1aa
+      Name: vox_9_9_0
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 0.0
+            Z: 9.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 60c1e23b-9fd8-5938-8165-cd9f493bf327
+      Name: vox_9_10_0
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 0.0
+            Z: 10.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: faed51ea-cdbe-51d1-985d-46ff8d8dbce7
+      Name: vox_9_11_0
+      Components:
+        Transform:
+          Position:
+            X: 9.0
+            Y: 0.0
+            Z: 11.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 05cec011-f67b-5b19-9edf-90f18cb809b6
+      Name: vox_10_0_0
+      Components:
+        Transform:
+          Position:
+            X: 10.0
+            Y: 0.0
+            Z: 0.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 9b633ff2-6521-5924-ae55-339443b804f9
+      Name: vox_10_1_0
+      Components:
+        Transform:
+          Position:
+            X: 10.0
+            Y: 0.0
+            Z: 1.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: fd547f82-d157-5426-b52b-9fd6c47b7dfa
+      Name: vox_10_2_0
+      Components:
+        Transform:
+          Position:
+            X: 10.0
+            Y: 0.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 4a030383-6201-5813-838c-adec81790ca7
+      Name: vox_10_3_0
+      Components:
+        Transform:
+          Position:
+            X: 10.0
+            Y: 0.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 381409ca-fc81-5a34-8e1e-903930ed2d36
+      Name: vox_10_4_0
+      Components:
+        Transform:
+          Position:
+            X: 10.0
+            Y: 0.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 0af58736-9dfa-5517-96c8-c949a858227b
+      Name: vox_10_5_0
+      Components:
+        Transform:
+          Position:
+            X: 10.0
+            Y: 0.0
+            Z: 5.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 0df27f79-4acf-5ad4-845d-951d4c9252c0
+      Name: vox_10_6_0
+      Components:
+        Transform:
+          Position:
+            X: 10.0
+            Y: 0.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 34ed1956-9ec4-57a9-a3ae-d0bbb5d87e7e
+      Name: vox_10_7_0
+      Components:
+        Transform:
+          Position:
+            X: 10.0
+            Y: 0.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: d73eef71-b02b-54c0-9ead-257cf7e6ff6e
+      Name: vox_10_8_0
+      Components:
+        Transform:
+          Position:
+            X: 10.0
+            Y: 0.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: a544bb48-4886-50f4-8c37-509701cc69c1
+      Name: vox_10_9_0
+      Components:
+        Transform:
+          Position:
+            X: 10.0
+            Y: 0.0
+            Z: 9.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 8585f749-256b-531f-9498-00a100d5b174
+      Name: vox_10_10_0
+      Components:
+        Transform:
+          Position:
+            X: 10.0
+            Y: 0.0
+            Z: 10.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 8bc7e93b-d53f-5d4e-a3c6-ae0b97741843
+      Name: vox_10_11_0
+      Components:
+        Transform:
+          Position:
+            X: 10.0
+            Y: 0.0
+            Z: 11.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 5cabca4d-82ce-53d8-a0dd-9fcd7ce35e21
+      Name: vox_11_0_0
+      Components:
+        Transform:
+          Position:
+            X: 11.0
+            Y: 0.0
+            Z: 0.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 2f667c74-7c98-58ff-8e05-05dd221b03a1
+      Name: vox_11_1_0
+      Components:
+        Transform:
+          Position:
+            X: 11.0
+            Y: 0.0
+            Z: 1.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 8c783d19-6401-524a-99a4-8d2609e50ad9
+      Name: vox_11_2_0
+      Components:
+        Transform:
+          Position:
+            X: 11.0
+            Y: 0.0
+            Z: 2.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 51fbdf25-f233-5d62-92ce-8bac8f77c762
+      Name: vox_11_3_0
+      Components:
+        Transform:
+          Position:
+            X: 11.0
+            Y: 0.0
+            Z: 3.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 80064470-c23a-5c19-b614-7d16edc6f0e2
+      Name: vox_11_4_0
+      Components:
+        Transform:
+          Position:
+            X: 11.0
+            Y: 0.0
+            Z: 4.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 6f2fe44b-0f62-5548-a5f7-ecdeb9953243
+      Name: vox_11_5_0
+      Components:
+        Transform:
+          Position:
+            X: 11.0
+            Y: 0.0
+            Z: 5.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 284bb013-6cc6-5186-9948-3de08d6ffa48
+      Name: vox_11_6_0
+      Components:
+        Transform:
+          Position:
+            X: 11.0
+            Y: 0.0
+            Z: 6.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 35b86d20-be85-5806-84b0-c68ab1e63d0a
+      Name: vox_11_7_0
+      Components:
+        Transform:
+          Position:
+            X: 11.0
+            Y: 0.0
+            Z: 7.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: aca595c4-090e-5343-98de-6f2d7cbf5499
+      Name: vox_11_8_0
+      Components:
+        Transform:
+          Position:
+            X: 11.0
+            Y: 0.0
+            Z: 8.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 4dde03cc-2791-5919-89a3-27d5b144ad06
+      Name: vox_11_9_0
+      Components:
+        Transform:
+          Position:
+            X: 11.0
+            Y: 0.0
+            Z: 9.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: ce78baed-5c6c-5e44-a75c-742beb2fa68a
+      Name: vox_11_10_0
+      Components:
+        Transform:
+          Position:
+            X: 11.0
+            Y: 0.0
+            Z: 10.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+  - Entity:
+      Id: 2755e022-f131-5a74-b859-90de903f8239
+      Name: vox_11_11_0
+      Components:
+        Transform:
+          Position:
+            X: 11.0
+            Y: 0.0
+            Z: 11.0
+          Rotation:
+            X: 0
+            Y: 0
+            Z: 0
+            W: 1
+          Scale:
+            X: 1
+            Y: 1
+            Z: 1
+        ModelComponent:
+          Model: null
+          Materials:
+          - Color:
+              R: 0.94
+              G: 0.93
+              B: 0.89
+              A: 1.0
+Offset:
+  X: 0.0
+  Y: 0.0
+  Z: 0.0

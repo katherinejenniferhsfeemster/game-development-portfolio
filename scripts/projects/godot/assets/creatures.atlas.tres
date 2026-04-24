@@ -1,0 +1,13 @@
+[gd_resource type="SpriteFrames" load_steps=2 format=3]
+
+[ext_resource type="Texture2D" path="res://assets/creatures.png" id="1_atlas"]
+
+[resource]
+animations = [{
+"frames": [],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+; Runtime code reads manifest.csv to populate AtlasTexture rects — this stub
+; documents the wiring without bloating the diff with 24 identical sub-resources.

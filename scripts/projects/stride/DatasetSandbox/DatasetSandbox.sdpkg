@@ -1,0 +1,16 @@
+'!Package': null
+Id: b0d4a1f2-0000-4000-8000-000000000001
+SerializedVersion:
+  Stride: 2.1.0.1
+Meta:
+  Name: DatasetSandbox
+  Version: 1.0.0.0
+Profiles:
+- Platform: Shared
+  AssetFolders:
+  - Path: Assets
+  OutputGroup: ''
+Bundles: []
+RootAssets:
+- Id: b0d4a1f2-0000-4000-8000-000000000003
+  Location: Scenes/MainScene

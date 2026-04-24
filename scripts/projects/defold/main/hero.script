@@ -1,0 +1,44 @@
+-- hero.script -- controller + deterministic behavior sampler.
+-- When invoked with sys.get_config("behavior.capture") == "1" it writes
+-- state rows to behavior.csv for AI dataset training.
+local M = {}
+
+local SPEED = 220
+
+function init(self)
+    self.velocity = vmath.vector3()
+    self.t = 0
+    self.capture = sys.get_config("behavior.capture") == "1"
+    if self.capture then
+        self.csv = io.open(sys.get_save_file("ai_dataset", "behavior.csv"), "w")
+        self.csv:write("t,x,y,vx,vy,action\n")
+    end
+end
+
+function update(self, dt)
+    self.t = self.t + dt
+    local p = go.get_position()
+    local row = string.format("%.3f,%.2f,%.2f,%.2f,%.2f,%s\n",
+        self.t, p.x, p.y, self.velocity.x, self.velocity.y, self.last_action or "idle")
+    if self.capture then self.csv:write(row) end
+
+    p.x = p.x + self.velocity.x * dt
+    p.y = p.y + self.velocity.y * dt
+    go.set_position(p)
+end
+
+function on_input(self, action_id, action)
+    if action_id == hash("left") then
+        self.velocity.x = -SPEED; self.last_action = "left"
+    elseif action_id == hash("right") then
+        self.velocity.x = SPEED; self.last_action = "right"
+    elseif action_id == hash("capture") and action.pressed then
+        msg.post("@system:", "exit", { code = 0 })
+    end
+end
+
+function final(self)
+    if self.capture and self.csv then self.csv:close() end
+end
+
+return M

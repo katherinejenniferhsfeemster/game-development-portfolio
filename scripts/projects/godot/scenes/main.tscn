@@ -1,0 +1,15 @@
+[gd_scene load_steps=4 format=3 uid="uid://b0voxaidataset00"]
+
+[ext_resource type="Script" path="res://scripts/VoxelScene.gd" id="1_voxel"]
+
+[node name="Main" type="Node3D"]
+script = ExtResource("1_voxel")
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(0.707, -0.408, 0.577, 0, 0.816, 0.577, -0.707, -0.408, 0.577, 12, 14, 12)
+
+[node name="Sun" type="DirectionalLight3D" parent="."]
+transform = Transform3D(0.866, -0.25, 0.433, 0, 0.866, 0.5, -0.5, -0.433, 0.75, 0, 10, 0)
+light_color = Color(1, 0.97, 0.9, 1)
+light_energy = 1.2
+shadow_enabled = true

@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Katherine Feemster — Game Development Specialist</title>
+  <meta name="description" content="Senior game development portfolio — Godot 4, Defold, Solar 2D, Panda 3D and Stride (Xenko) projects generated from Python. Reproducible, code-driven asset pipelines for AI research." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-inner">
+    <a href="#top" class="brand">
+      <span class="brand-mark" aria-hidden="true">◐</span>
+      <span>Katherine Feemster</span>
+    </a>
+    <nav>
+      <a href="#work">Work</a>
+      <a href="#code">Code</a>
+      <a href="#stack">Stack</a>
+      <a href="#about">About</a>
+      <a class="btn btn-outline" href="https://github.com/katherinejenniferhsfeemster/game-development-portfolio" target="_blank" rel="noopener">GitHub ↗</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+
+  <section class="hero">
+    <div class="wrap hero-inner">
+      <div class="hero-copy">
+        <p class="eyebrow">Game development · Godot · Defold · Solar 2D · Panda 3D · Stride</p>
+        <h1>I ship the <span class="accent">cross-engine asset pipelines</span> that turn Python into playable games and AI training data.</h1>
+        <p class="lede">
+          A decade across <b>Godot, Defold, Solar 2D, Panda 3D and Stride (Xenko)</b>. Most of my projects are generated, because project files you can diff are projects you can trust in CI.
+        </p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="#work">See the work</a>
+          <a class="btn btn-ghost" href="https://github.com/katherinejenniferhsfeemster/game-development-portfolio" target="_blank" rel="noopener">Browse the repo</a>
+        </div>
+      </div>
+      <figure class="hero-art">
+        <img src="assets/scene_iso.png" alt="Isometric voxel scene rendered from the shared 12x12 world used across all five engine projects" />
+        <figcaption>Shared voxel world — rendered live from <code>render_posters.py</code></figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="strip">
+    <div class="wrap strip-inner">
+      <span>Godot 4</span>
+      <span>Defold</span>
+      <span>Solar 2D</span>
+      <span>Panda 3D</span>
+      <span>Stride (Xenko)</span>
+      <span>GDScript</span>
+      <span>Lua</span>
+      <span>C# / .NET 8</span>
+      <span>Python</span>
+      <span>glTF</span>
+      <span>.egg</span>
+      <span>YAML .sdscene</span>
+    </div>
+  </section>
+
+  <section id="work" class="section">
+    <div class="wrap">
+      <h2>Selected projects</h2>
+      <p class="section-lede">Five engine projects generated from a single Python pipeline. Same 12×12 voxel scene across Godot, Panda 3D and Stride so AI captures line up; shared 24-creature sprite atlas across Godot, Defold and Solar 2D.</p>
+
+      <div class="cards">
+
+        <article class="card feature">
+          <div class="card-media">
+            <img src="assets/atlas_grid.png" alt="24-creature sprite atlas — 6 columns by 4 rows of pixel-art creatures with varied colors and gaze directions" />
+          </div>
+          <div class="card-body">
+            <p class="tag">Godot 4 · GDScript · glTF</p>
+            <h3>Godot 4 procedural asset pipeline</h3>
+            <p>A valid <code>project.godot</code> plus <code>main.tscn</code>, a GDScript voxel builder that produces a deterministic 12×12 world at runtime, and an <code>AssetExporter</code> autoload that writes glTF when Godot is launched headless — exactly the path AI teams need for dataset captures.</p>
+            <p class="meta">Godot 4.2 · Forward Plus · GDScript · 24-sprite shared atlas · headless glTF export</p>
+            <a class="link" href="https://github.com/katherinejenniferhsfeemster/game-development-portfolio/tree/main/projects/godot-procedural-pipeline" target="_blank" rel="noopener">Read the case study →</a>
+          </div>
+        </article>
+
+        <article class="card feature reverse">
+          <div class="card-media">
+            <img src="assets/tilemap.png" alt="24 by 14 tilemap with grass, paths, trees and a water pond, used as the Solar 2D scene background" />
+          </div>
+          <div class="card-body">
+            <p class="tag">Solar 2D · Lua · composer</p>
+            <h3>Solar 2D scene generator</h3>
+            <p>Pure-Lua Solar 2D project: <code>main.lua</code>, <code>config.lua</code>, <code>build.settings</code>, a <code>composer</code> scene with the shared atlas and tilemap, a deterministic CPU particle emitter, and a headless capture module that writes <code>behavior.csv</code> per tick.</p>
+            <p class="meta">Solar 2D · composer · deterministic LCG particles · iOS / Android / HTML5 ready</p>
+            <a class="link" href="https://github.com/katherinejenniferhsfeemster/game-development-portfolio/tree/main/projects/solar2d-scene-generator" target="_blank" rel="noopener">Read the case study →</a>
+          </div>
+        </article>
+
+        <div class="grid-3">
+          <article class="card">
+            <div class="card-body">
+              <p class="tag">Defold · Lua · text-format</p>
+              <h3>Defold atlas + behavior capture</h3>
+              <p><code>game.project</code> + <code>main.collection</code> + <code>creatures.atlas</code> with 24 animations, plus a Lua <code>hero.script</code> that writes per-frame state to CSV when <code>behavior.capture=1</code>. All text-format — clean PR diffs.</p>
+              <a class="link" href="https://github.com/katherinejenniferhsfeemster/game-development-portfolio/tree/main/projects/defold-atlas-pipeline" target="_blank" rel="noopener">Case study →</a>
+            </div>
+          </article>
+
+          <article class="card">
+            <div class="card-body">
+              <p class="tag">Panda 3D · Python · .egg</p>
+              <h3>Panda 3D scene + headless capture</h3>
+              <p>178-voxel <code>scene.egg</code> generated as plain text, a <code>ShowBase</code> preview app, and an offscreen framebuffer capture script that renders 120 frames to PNG without a display server — ideal for CV dataset generation in CI.</p>
+              <a class="link" href="https://github.com/katherinejenniferhsfeemster/game-development-portfolio/tree/main/projects/panda3d-scene-bundler" target="_blank" rel="noopener">Case study →</a>
+            </div>
+          </article>
+
+          <article class="card accent-card">
+            <div class="card-body">
+              <p class="tag">Stride (Xenko) · C# · .NET 8</p>
+              <h3>Stride .NET asset pipeline</h3>
+              <p><code>.sln</code> + <code>.csproj</code> + <code>.sdpkg</code> + YAML <code>.sdscene</code>, plus a C# <code>DataCaptureComponent : SyncScript</code> that emits per-entity JSONL each frame. Same 12×12 voxel scene as the Godot and Panda projects.</p>
+              <a class="link" href="https://github.com/katherinejenniferhsfeemster/game-development-portfolio/tree/main/projects/stride-xenko-pipeline" target="_blank" rel="noopener">Case study →</a>
+            </div>
+          </article>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <section id="code" class="section dark">
+    <div class="wrap">
+      <h2>Code you can actually run</h2>
+      <p class="section-lede">Every project file on this page is regenerated by GitHub Actions on every push — never pre-baked. Clone the repo, run one script, get bit-identical Godot, Defold, Solar 2D, Panda 3D and Stride projects.</p>
+
+      <div class="code-grid">
+        <div class="code-card">
+          <h4>Godot 4 — voxel world + glTF</h4>
+          <pre><code>python scripts/python/build_godot_project.py</code></pre>
+          <p>Emits <code>project.godot</code>, <code>main.tscn</code>, <code>VoxelScene.gd</code>, <code>AssetExporter.gd</code>, the shared atlas PNG, and a CSV sprite manifest.</p>
+        </div>
+        <div class="code-card">
+          <h4>Defold — atlas + behavior</h4>
+          <pre><code>python scripts/python/build_defold_project.py</code></pre>
+          <p>Writes <code>game.project</code>, <code>main.collection</code>, <code>hero.script</code>, <code>creatures.atlas</code> with 24 animations, and a headless behavior capture driver.</p>
+        </div>
+        <div class="code-card">
+          <h4>Solar 2D — scene + particles</h4>
+          <pre><code>python scripts/python/build_solar2d_project.py</code></pre>
+          <p><code>main.lua</code>, <code>config.lua</code>, <code>build.settings</code>, <code>scene.lua</code>, <code>particles.lua</code>, <code>capture.lua</code>, plus three PNGs generated into <code>assets/</code>.</p>
+        </div>
+        <div class="code-card">
+          <h4>Panda 3D — .egg + offscreen capture</h4>
+          <pre><code>python scripts/python/build_panda3d_project.py</code></pre>
+          <p>178-voxel <code>scene.egg</code>, <code>Config.prc</code>, runnable <code>main.py</code>, and an offscreen <code>headless_capture.py</code> for CV datasets.</p>
+        </div>
+        <div class="code-card">
+          <h4>Stride — .NET project + C# capture</h4>
+          <pre><code>python scripts/python/build_stride_project.py</code></pre>
+          <p>Solution, <code>.csproj</code>, <code>.sdpkg</code>, YAML <code>.sdscene</code>, plus <code>DatasetSandboxGame.cs</code> and <code>DataCaptureComponent.cs</code>.</p>
+        </div>
+        <div class="code-card">
+          <h4>Rebuild the whole pipeline</h4>
+          <pre><code>python scripts/python/run_all.py</code></pre>
+          <p>Five engine projects + five posters in one shot. The same script CI runs on every push.</p>
+        </div>
+      </div>
+
+      <div style="margin-top: 36px;">
+        <figure class="hero-art" style="background: #0F1A1F; padding: 22px;">
+          <img src="assets/particle_burst.png" alt="1200 particles bursting in teal, amber and green clouds on an ink background" />
+          <figcaption style="color: #B8BFC4;">Deterministic particle burst — 1,200 particles, seeded LCG so CI runs are bit-identical across engines.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section id="stack" class="section">
+    <div class="wrap">
+      <h2>Stack</h2>
+      <div class="stack-grid">
+        <div><h4>Godot 4</h4><p>Forward Plus rendering, GDScript voxel builders, autoload singletons, headless glTF export. Text <code>.tscn</code>/<code>.tres</code> so the whole project lives in git.</p></div>
+        <div><h4>Defold</h4><p>Text-format <code>.collection</code> / <code>.atlas</code>, Lua controllers, <code>bob</code> headless builds, shared atlas pipelines with behavior capture to CSV.</p></div>
+        <div><h4>Solar 2D</h4><p>Pure Lua + <code>composer</code> scenes, deterministic particle systems, iOS / Android / HTML5 export, headless behavior capture gated on an env var.</p></div>
+        <div><h4>Panda 3D</h4><p>Hand-written <code>.egg</code> scene graphs, <code>ShowBase</code> apps, offscreen framebuffer capture for CV datasets without a display server.</p></div>
+        <div><h4>Stride (Xenko)</h4><p>.NET 8 + C#, YAML <code>.sdscene</code> and <code>.sdpkg</code>, <code>SyncScript</code> components, JSONL per-frame capture for ML pipelines.</p></div>
+        <div><h4>Code &amp; CI</h4><p>Python generators (numpy, Pillow, matplotlib, PyYAML), Git, GitHub Actions. Every project file, sprite and scene is regenerated on push.</p></div>
+      </div>
+      <figure class="hero-art" style="margin-top: 32px;">
+        <img src="assets/engine_matrix.png" alt="Capability matrix of Godot 4, Defold, Solar 2D, Panda 3D and Stride across seven criteria" />
+        <figcaption>Open-source game engines — what each is strong at.</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section id="about" class="section about">
+    <div class="wrap about-inner">
+      <div>
+        <h2>About</h2>
+        <p>I'm a senior game-development specialist with [years] years shipping cross-engine game and interactive assets for [Company, years] — most recently focused on data-generation pipelines for AI research programs. I care about reproducible project files (diff-first, editor-second), deterministic captures, and scripts that produce the same game a year from now.</p>
+        <p>Open to remote and contract engagements in game development, tools engineering, or research-facing interactive media. The repository linked below is the living portfolio companion to my CV.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="https://github.com/katherinejenniferhsfeemster/game-development-portfolio" target="_blank" rel="noopener">Portfolio on GitHub</a>
+          <a class="btn btn-ghost" href="https://github.com/katherinejenniferhsfeemster" target="_blank" rel="noopener">@katherinejenniferhsfeemster</a>
+        </div>
+      </div>
+      <aside class="side-card">
+        <h4>At a glance</h4>
+        <ul>
+          <li>Five FOSS engines — Godot, Defold, Solar 2D, Panda 3D, Stride</li>
+          <li>GDScript, Lua, Python, C# / .NET 8</li>
+          <li>Every project file is regenerated in CI</li>
+          <li>Shared 12×12 voxel scene across 3D engines for matching captures</li>
+        </ul>
+      </aside>
+    </div>
+  </section>
+
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-inner">
+    <span>© 2026 Katherine Feemster. Built with five FOSS engines and a lot of Python.</span>
+    <a href="https://github.com/katherinejenniferhsfeemster/game-development-portfolio" target="_blank" rel="noopener">Source ↗</a>
+  </div>
+</footer>
+
+</body>
+</html>

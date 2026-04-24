@@ -1,0 +1,267 @@
+margin: 0
+extrude_borders: 0
+inner_padding: 0
+images {
+  image: "/main/creatures/creature_00.png"
+}
+images {
+  image: "/main/creatures/creature_01.png"
+}
+images {
+  image: "/main/creatures/creature_02.png"
+}
+images {
+  image: "/main/creatures/creature_03.png"
+}
+images {
+  image: "/main/creatures/creature_04.png"
+}
+images {
+  image: "/main/creatures/creature_05.png"
+}
+images {
+  image: "/main/creatures/creature_06.png"
+}
+images {
+  image: "/main/creatures/creature_07.png"
+}
+images {
+  image: "/main/creatures/creature_08.png"
+}
+images {
+  image: "/main/creatures/creature_09.png"
+}
+images {
+  image: "/main/creatures/creature_10.png"
+}
+images {
+  image: "/main/creatures/creature_11.png"
+}
+images {
+  image: "/main/creatures/creature_12.png"
+}
+images {
+  image: "/main/creatures/creature_13.png"
+}
+images {
+  image: "/main/creatures/creature_14.png"
+}
+images {
+  image: "/main/creatures/creature_15.png"
+}
+images {
+  image: "/main/creatures/creature_16.png"
+}
+images {
+  image: "/main/creatures/creature_17.png"
+}
+images {
+  image: "/main/creatures/creature_18.png"
+}
+images {
+  image: "/main/creatures/creature_19.png"
+}
+images {
+  image: "/main/creatures/creature_20.png"
+}
+images {
+  image: "/main/creatures/creature_21.png"
+}
+images {
+  image: "/main/creatures/creature_22.png"
+}
+images {
+  image: "/main/creatures/creature_23.png"
+}
+animations {
+  id: "creature_00"
+  images {
+    image: "/main/creatures/creature_00.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_01"
+  images {
+    image: "/main/creatures/creature_01.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_02"
+  images {
+    image: "/main/creatures/creature_02.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_03"
+  images {
+    image: "/main/creatures/creature_03.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_04"
+  images {
+    image: "/main/creatures/creature_04.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_05"
+  images {
+    image: "/main/creatures/creature_05.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_06"
+  images {
+    image: "/main/creatures/creature_06.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_07"
+  images {
+    image: "/main/creatures/creature_07.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_08"
+  images {
+    image: "/main/creatures/creature_08.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_09"
+  images {
+    image: "/main/creatures/creature_09.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_10"
+  images {
+    image: "/main/creatures/creature_10.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_11"
+  images {
+    image: "/main/creatures/creature_11.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_12"
+  images {
+    image: "/main/creatures/creature_12.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_13"
+  images {
+    image: "/main/creatures/creature_13.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_14"
+  images {
+    image: "/main/creatures/creature_14.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_15"
+  images {
+    image: "/main/creatures/creature_15.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_16"
+  images {
+    image: "/main/creatures/creature_16.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_17"
+  images {
+    image: "/main/creatures/creature_17.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_18"
+  images {
+    image: "/main/creatures/creature_18.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_19"
+  images {
+    image: "/main/creatures/creature_19.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_20"
+  images {
+    image: "/main/creatures/creature_20.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_21"
+  images {
+    image: "/main/creatures/creature_21.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_22"
+  images {
+    image: "/main/creatures/creature_22.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}
+animations {
+  id: "creature_23"
+  images {
+    image: "/main/creatures/creature_23.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 12
+}

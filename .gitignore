@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Engine build outputs (regenerated locally)
+scripts/projects/godot/.godot/
+scripts/projects/godot/build/
+scripts/projects/defold/build/
+scripts/projects/panda3d/captures/
+scripts/projects/stride/**/bin/
+scripts/projects/stride/**/obj/

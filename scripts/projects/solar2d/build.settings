@@ -1,0 +1,11 @@
+settings = {
+    orientation = { default = "portrait", supported = { "portrait" } },
+    iphone = { plist = { UIStatusBarHidden = true, UIViewControllerBasedStatusBarAppearance = false } },
+    android = { googlePlayGamesAppId = "", supportsScreens = {
+        smallScreens = true, normalScreens = true, largeScreens = true, xlargeScreens = true
+    } },
+    window = { defaultMode = "normal", resizable = false,
+        defaultViewWidth = 720, defaultViewHeight = 1280,
+        titleText = { default = "AI Dataset Sandbox" } },
+    plugins = {},
+}
