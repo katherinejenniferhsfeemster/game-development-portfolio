@@ -2,6 +2,8 @@
 
 # Game Development Portfolio
 
+**by Katherine Feemster**
+
 ### Senior Game Development Specialist · Cross-Engine Pipelines · Godot · Defold · Panda 3D · Stride
 
 [🌐 **Live portfolio site**](https://katherinejenniferhsfeemster.github.io/game-development-portfolio/) · [GitHub repo](https://github.com/katherinejenniferhsfeemster/game-development-portfolio)
@@ -97,6 +99,8 @@ Open to remote and contract engagements. This repository is the living portfolio
 ---
 
 ## Contact
+
+**Katherine Feemster**
 
 - GitHub — [@katherinejenniferhsfeemster](https://github.com/katherinejenniferhsfeemster)
 - Live site — [katherinejenniferhsfeemster.github.io/game-development-portfolio](https://katherinejenniferhsfeemster.github.io/game-development-portfolio/)
